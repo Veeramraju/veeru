@@ -1,0 +1,6 @@
+hi welcome to the file 
+this is the another file 
+which we are created by us
+this is another file adding the d drive and we are adding this file through the git bash to git hub
+now we are doing the same thing 
+here we are doing 
